@@ -1,0 +1,22 @@
+<h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+<p>{{ site.description }}</p>
+
+
+
+
+<p>
+{% for page in site.pages %}
+{% if page.title %}
+<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }} &raquo;</a><br/>
+{% endif %}
+{% endfor %}
+</p>
+
+<p>
+	<img src="/elements/matagorimutt.png" width="100"/>
+</p>
+
+<p>
+	<a href="{{ site.baseurl }}/">About {{ site.title }} &raquo;</a>
+</p>
+
