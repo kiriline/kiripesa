@@ -31,5 +31,8 @@ permalink: /team/
 {% endcomment %}
 
 
+
+![Line](/elements/ussid.png)
+
 <hr style="clear:left;margin:20px 0;"/>
 <em><sup>*</sup> Haldjas - Estonian for "elf"</em>
