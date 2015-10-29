@@ -22,13 +22,13 @@ permalink: /team/
 </p>
 </div>
 
-{% comment %}
+
 <div class="profile">
-<img src="/files/coco.jpg" />
-<h3>Coco <span>Marketing</span></h3>
+<img src="/files/coco2.jpg" />
+<h3>Coco <span>Marketing and happiness</span></h3>
 <p>Every team needs some cuteness. Coco (named after Ms Chanel) brings her charm, shine, and relaxation skills.</p>
 </div>
-{% endcomment %}
+
 
 
 
